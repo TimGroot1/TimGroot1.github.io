@@ -1,0 +1,19 @@
+@import url(http://http://fonts.googleapis.com/css?family=Lato:400);
+body, html {
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  font-size: 6em;
+  color: white;
+  font-family: 'Lato', serif;
+  letter-spacing: 2px;
+  pointer-events: none;
+  font-weight: 400;
+  position: absolute;
+  top: 30%;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
